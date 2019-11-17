@@ -1,0 +1,73 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/6350_assn_2_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tweet$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/Tweet$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$3$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$3$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$7$$anonfun$apply$7$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$7$$anonfun$apply$7$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$3$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$3$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$3$$anonfun$apply$4$$anonfun$apply$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$3$$anonfun$apply$4$$anonfun$apply$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$3$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$3$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$main$1$$anonfun$apply$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$main$1$$anonfun$apply$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$7$$anonfun$apply$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$7$$anonfun$apply$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tweet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/Tweet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tweet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/Tweet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$4$$anonfun$apply$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jie/Nustore Files/IdeaProjects/6350_assn_2/target/scala-2.11/classes/TopicModeling$$anonfun$4$$anonfun$apply$6.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
